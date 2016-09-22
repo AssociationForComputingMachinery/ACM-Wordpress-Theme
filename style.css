@@ -3,13 +3,11 @@ Theme Name: ACM-Wordpress-Theme
 Author: AuthX
 Description: ACM to WordPress
 Github Theme URI: https://github.com/AssociationForComputingMachinery/ACM-Wordpress-Theme
-Version: 1.0.2
+Version: 1.0.3
 Tags: acm
 */
 @import url("acm-blessed1.css?z=1465521440117");
-.test{
-  margin: 12px;
-}
+
 .tabs.radius .tab:last-child a, .tabs.radius dd:last-child a {
   -webkit-border-bottom-right-radius: 3px;
   -webkit-border-top-right-radius: 3px;
