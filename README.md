@@ -3,10 +3,10 @@ ACM WordPress Theme Project
 
 The materials in this package include:
 
-(1)  ACM Custom WordPress Theme, acm-wp-theme.zip
-(2)  resources folder, containing:
-	(a) Documentation - ACM-WordPress-Theme.pdf
-	(b)  Images - acm-images
+* ACM Custom WordPress Theme, acm-wp-theme.zip
+* resources folder, containing:
+	* Documentation - ACM-WordPress-Theme.pdf
+	* Images - acm-images
 
 Start by reading the documentation.
 
